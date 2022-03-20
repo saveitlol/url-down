@@ -1,3 +1,4 @@
+git+git://github.com/google/chatbase-python.git
 aiohttp
 beautifulsoup4
 hachoir
@@ -11,4 +12,4 @@ olefile
 filetype
 tldextract
 lk21
-chatbase
+
